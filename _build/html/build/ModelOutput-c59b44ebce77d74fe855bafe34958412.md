@@ -1,0 +1,37 @@
+# Understanding *DiatomSizeESS* output
+The following steps take you through a simulation of the DiatomESS model on Binder:
+
+## Setup
+Setting up the DiatomESS model on Binder requires two steps:
+1. Open the Binder link to the model
+2. Select **Run all cells** under the **Run** menu
+
+If your screen gets confusing or crowded, you can start over by selecting **Restart Kernel and Run All Cells** under the **Run** menu.
+
+## Starting a population simulation
+Running simulations with a new population using the model requires three steps:
+1. Select parameters under **Setting up diatom variants and mixed layer characteristics**, then click **Set up population**
+2. Select parameters under **Seeding the mixed layer with diatom variants**, and click **Seed cell population**
+3. Select parameters under **Setting mixing event intervals, and running the simulation** and click **Run simulation**
+
+## Continuing a population simulation
+Continuing a simulation (without resetting the population) requires two steps:
+1. [optionally] Add cells by selecting parameters under **Seeding the mixed layer with diatom variants**, and clicking **Seed cell population**
+2. Select parameters under **Setting mixing event intervals, and running the simulation** and click **Run simulation**.
+
+You can add cells, and/or continue the simulation, as many times as you want.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
