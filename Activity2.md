@@ -4,7 +4,6 @@ In this Activity, we explore [Litchman *et al.* (2009)](https://www.pnas.org/doi
 Litchman *et al.* supported their hypothesis by showing that their model resulted in [Evolutionarily Stable States](./EvolutionarilyStableStates.md) in which larger diatom variants were favored over smaller diatom variants.
 Here, you will assess their conclusions using their model.  
 ## 1. Winners of competition in diverse diatom cultures
-
    > - What are the outcomes of competition among initially mixed populations of diatom variants?  
    > - Over which time periods do the outcomes of competition among initially mixed diatom populations approach their final state?
 %### Procedure
