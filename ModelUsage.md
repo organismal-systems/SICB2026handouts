@@ -1,5 +1,5 @@
-# Short-form instructions for using the DiatomSizeESS model
-The following steps take you through a simulation of the DiatomESS model on Binder:
+# Using the *DiatomSizeESS* model
+The following steps take you through a simulation of the *DiatomSizeESS* model on Binder:
 
 ## Setup
 Setting up the DiatomESS model on Binder requires two steps:
